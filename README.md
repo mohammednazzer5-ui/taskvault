@@ -53,7 +53,7 @@ Requires Python 3.10 or newer.
 
 ```bash
 # 1. Clone and open
-git clone https://github.com/<your-username>/taskvault.git
+git clone https://github.com/<mohammednazzer5-ui>/taskvault.git
 cd taskvault
 code .
 
