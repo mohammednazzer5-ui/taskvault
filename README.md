@@ -1,5 +1,9 @@
 # TaskVault
 
+🚀 **Live Demo:** [Open TaskVault](https://taskvault-mcxh.onrender.com/)
+
+A full-stack task management application with authentication.
+
 A full stack task manager with **user authentication, role-based access, and a REST API**. Users sign up, log in, and manage their own tasks; admins can manage all users.
 
 Built with Flask, SQLite, JWT, and a dependency-free vanilla JavaScript frontend.
